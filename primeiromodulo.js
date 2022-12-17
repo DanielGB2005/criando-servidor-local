@@ -1,6 +1,4 @@
 exports.nome = function(){
-    
-    nome = "daniel";
-
-    return nome;
+    nome = 'Daniel Gonçalves Batista';
+    return nome; 
 }

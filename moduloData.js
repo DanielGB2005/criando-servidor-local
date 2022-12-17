@@ -1,3 +1,3 @@
-exports.diaDaSemana = function(){    // aqui criou-se a biblioteca 'dia da semana'
+exports.diaDaSemana = function() {
     return Date().substring(0,3);
-} 
+}
